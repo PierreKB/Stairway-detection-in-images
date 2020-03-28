@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<annotation>
+<filename>4.jpg</filename>
+<folder>users/PierreAle//stairs</folder>
+<source>
+<submittedBy>Pierre</submittedBy>
+</source>
+<imagesize>
+<nrows>710</nrows>
+<ncols>474</ncols>
+</imagesize>
+<object>
+<object>
+<name>stairway</name>
+<deleted>1</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:20:28:596</date>
+<id>1</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>97</x>
+<y>488</y>
+<time>28-03-20 21:20:16:752</time>
+</pt>
+<pt>
+<x>53</x>
+<y>497</y>
+<time>28-03-20 21:20:18:882</time>
+</pt>
+<pt>
+<x>240</x>
+<y>542</y>
+<time>28-03-20 21:20:21:948</time>
+</pt>
+<pt>
+<x>289</x>
+<y>524</y>
+<time>28-03-20 21:20:23:380</time>
+</pt>
+<closed_date>28-03-20 21:20:25:128</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:20:51:907</date>
+<id>2</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>134</x>
+<y>444</y>
+<time>28-03-20 21:20:32:644</time>
+</pt>
+<pt>
+<x>95</x>
+<y>452</y>
+<time>28-03-20 21:20:34:768</time>
+</pt>
+<pt>
+<x>279</x>
+<y>471</y>
+<time>28-03-20 21:20:36:531</time>
+</pt>
+<pt>
+<x>306</x>
+<y>462</y>
+<time>28-03-20 21:20:47:170</time>
+</pt>
+<closed_date>28-03-20 21:20:48:703</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:21:17:184</date>
+<id>3</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>98</x>
+<y>487</y>
+<time>28-03-20 21:21:04:283</time>
+</pt>
+<pt>
+<x>53</x>
+<y>498</y>
+<time>28-03-20 21:21:07:312</time>
+</pt>
+<pt>
+<x>243</x>
+<y>544</y>
+<time>28-03-20 21:21:10:359</time>
+</pt>
+<pt>
+<x>273</x>
+<y>524</y>
+<time>28-03-20 21:21:12:473</time>
+</pt>
+<closed_date>28-03-20 21:21:13:822</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:21:44:750</date>
+<id>4</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>55</x>
+<y>542</y>
+<time>28-03-20 21:21:30:605</time>
+</pt>
+<pt>
+<x>1</x>
+<y>558</y>
+<time>28-03-20 21:21:35:413</time>
+</pt>
+<pt>
+<x>194</x>
+<y>642</y>
+<time>28-03-20 21:21:37:147</time>
+</pt>
+<pt>
+<x>238</x>
+<y>600</y>
+<time>28-03-20 21:21:39:729</time>
+</pt>
+<closed_date>28-03-20 21:21:41:188</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:22:22:678</date>
+<id>5</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>165</x>
+<y>409</y>
+<time>28-03-20 21:22:10:153</time>
+</pt>
+<pt>
+<x>133</x>
+<y>409</y>
+<time>28-03-20 21:22:12:153</time>
+</pt>
+<pt>
+<x>311</x>
+<y>414</y>
+<time>28-03-20 21:22:15:059</time>
+</pt>
+<pt>
+<x>331</x>
+<y>411</y>
+<time>28-03-20 21:22:18:027</time>
+</pt>
+<closed_date>28-03-20 21:22:19:346</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:23:16:705</date>
+<id>6</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>193</x>
+<y>375</y>
+<time>28-03-20 21:23:02:792</time>
+</pt>
+<pt>
+<x>163</x>
+<y>377</y>
+<time>28-03-20 21:23:06:254</time>
+</pt>
+<pt>
+<x>338</x>
+<y>367</y>
+<time>28-03-20 21:23:08:725</time>
+</pt>
+<pt>
+<x>353</x>
+<y>367</y>
+<time>28-03-20 21:23:10:862</time>
+</pt>
+<closed_date>28-03-20 21:23:12:307</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:23:46:661</date>
+<id>7</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>217</x>
+<y>344</y>
+<time>28-03-20 21:23:29:774</time>
+</pt>
+<pt>
+<x>189</x>
+<y>347</y>
+<time>28-03-20 21:23:34:974</time>
+</pt>
+<pt>
+<x>358</x>
+<y>329</y>
+<time>28-03-20 21:23:38:081</time>
+</pt>
+<pt>
+<x>374</x>
+<y>330</y>
+<time>28-03-20 21:23:40:961</time>
+</pt>
+<closed_date>28-03-20 21:23:42:409</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:24:21:115</date>
+<id>8</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>237</x>
+<y>316</y>
+<time>28-03-20 21:24:08:084</time>
+</pt>
+<pt>
+<x>214</x>
+<y>321</y>
+<time>28-03-20 21:24:11:892</time>
+</pt>
+<pt>
+<x>379</x>
+<y>295</y>
+<time>28-03-20 21:24:15:003</time>
+</pt>
+<pt>
+<x>394</x>
+<y>295</y>
+<time>28-03-20 21:24:16:130</time>
+</pt>
+<closed_date>28-03-20 21:24:17:743</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>1</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:25:01:200</date>
+<id>9</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>256</x>
+<y>292</y>
+<time>28-03-20 21:24:50:167</time>
+</pt>
+<pt>
+<x>235</x>
+<y>296</y>
+<time>28-03-20 21:24:52:350</time>
+</pt>
+<pt>
+<x>393</x>
+<y>267</y>
+<time>28-03-20 21:24:55:085</time>
+</pt>
+<pt>
+<x>405</x>
+<y>270</y>
+<time>28-03-20 21:24:56:691</time>
+</pt>
+<closed_date>28-03-20 21:24:57:914</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:25:48:759</date>
+<id>10</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>255</x>
+<y>293</y>
+<time>28-03-20 21:25:26:414</time>
+</pt>
+<pt>
+<x>235</x>
+<y>298</y>
+<time>28-03-20 21:25:32:898</time>
+</pt>
+<pt>
+<x>392</x>
+<y>267</y>
+<time>28-03-20 21:25:40:830</time>
+</pt>
+<pt>
+<x>405</x>
+<y>270</y>
+<time>28-03-20 21:25:44:155</time>
+</pt>
+<closed_date>28-03-20 21:25:45:508</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:27:03:427</date>
+<id>11</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>273</x>
+<y>272</y>
+<time>28-03-20 21:26:50:866</time>
+</pt>
+<pt>
+<x>255</x>
+<y>276</y>
+<time>28-03-20 21:26:53:295</time>
+</pt>
+<pt>
+<x>409</x>
+<y>240</y>
+<time>28-03-20 21:26:56:221</time>
+</pt>
+<pt>
+<x>419</x>
+<y>242</y>
+<time>28-03-20 21:26:57:458</time>
+</pt>
+<closed_date>28-03-20 21:26:59:407</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:28:12:476</date>
+<id>12</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>288</x>
+<y>252</y>
+<time>28-03-20 21:27:48:451</time>
+</pt>
+<pt>
+<x>269</x>
+<y>256</y>
+<time>28-03-20 21:27:52:984</time>
+</pt>
+<pt>
+<x>422</x>
+<y>216</y>
+<time>28-03-20 21:27:56:618</time>
+</pt>
+<pt>
+<x>431</x>
+<y>218</y>
+<time>28-03-20 21:28:06:751</time>
+</pt>
+<closed_date>28-03-20 21:28:08:424</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>1</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:28:42:134</date>
+<id>13</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>302</x>
+<y>234</y>
+<time>28-03-20 21:28:28:725</time>
+</pt>
+<pt>
+<x>284</x>
+<y>239</y>
+<time>28-03-20 21:28:30:664</time>
+</pt>
+<pt>
+<x>433</x>
+<y>196</y>
+<time>28-03-20 21:28:34:173</time>
+</pt>
+<pt>
+<x>442</x>
+<y>200</y>
+<time>28-03-20 21:28:37:145</time>
+</pt>
+<closed_date>28-03-20 21:28:38:584</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:30:01:453</date>
+<id>14</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>302</x>
+<y>235</y>
+<time>28-03-20 21:28:56:501</time>
+</pt>
+<pt>
+<x>285</x>
+<y>239</y>
+<time>28-03-20 21:28:58:645</time>
+</pt>
+<pt>
+<x>433</x>
+<y>196</y>
+<time>28-03-20 21:29:51:892</time>
+</pt>
+<pt>
+<x>443</x>
+<y>201</y>
+<time>28-03-20 21:29:56:207</time>
+</pt>
+<closed_date>28-03-20 21:29:57:760</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:30:26:451</date>
+<id>15</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>316</x>
+<y>217</y>
+<time>28-03-20 21:30:14:142</time>
+</pt>
+<pt>
+<x>300</x>
+<y>222</y>
+<time>28-03-20 21:30:16:863</time>
+</pt>
+<pt>
+<x>444</x>
+<y>179</y>
+<time>28-03-20 21:30:19:159</time>
+</pt>
+<pt>
+<x>452</x>
+<y>182</y>
+<time>28-03-20 21:30:20:315</time>
+</pt>
+<closed_date>28-03-20 21:30:21:858</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:30:55:324</date>
+<id>16</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>327</x>
+<y>203</y>
+<time>28-03-20 21:30:40:659</time>
+</pt>
+<pt>
+<x>313</x>
+<y>207</y>
+<time>28-03-20 21:30:43:500</time>
+</pt>
+<pt>
+<x>444</x>
+<y>165</y>
+<time>28-03-20 21:30:50:355</time>
+</pt>
+<closed_date>28-03-20 21:30:51:973</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:31:23:764</date>
+<id>17</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>339</x>
+<y>188</y>
+<time>28-03-20 21:31:12:558</time>
+</pt>
+<pt>
+<x>326</x>
+<y>193</y>
+<time>28-03-20 21:31:16:452</time>
+</pt>
+<pt>
+<x>436</x>
+<y>155</y>
+<time>28-03-20 21:31:19:249</time>
+</pt>
+<closed_date>28-03-20 21:31:20:533</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>1</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:31:36:942</date>
+<id>18</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>338</x>
+<y>179</y>
+<time>28-03-20 21:31:30:138</time>
+</pt>
+<pt>
+<x>429</x>
+<y>148</y>
+<time>28-03-20 21:31:31:990</time>
+</pt>
+<closed_date>28-03-20 21:31:33:449</closed_date>
+</polygon>
+</object>
+<object>
+<name>stairway</name>
+<deleted>0</deleted>
+<verified>0</verified>
+<occluded>no</occluded>
+<attributes/>
+<parts>
+<hasparts/>
+<ispartof/>
+</parts>
+<date>28-03-20 21:31:56:815</date>
+<id>19</id>
+<polygon>
+<username>anonymous</username>
+<pt>
+<x>337</x>
+<y>180</y>
+<time>28-03-20 21:31:48:517</time>
+</pt>
+<pt>
+<x>430</x>
+<y>147</y>
+<time>28-03-20 21:31:52:050</time>
+</pt>
+<closed_date>28-03-20 21:31:53:512</closed_date>
+</polygon>
+</object>
+</annotation>
