@@ -1,4 +1,3 @@
 # Stairway-detection-in-images
 
-### Group 13:
-* KOMBA Gaston &nbsp; N° 21910893 
+Try to count the number of steps in a staircase
